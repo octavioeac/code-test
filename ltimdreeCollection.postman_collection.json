@@ -1,0 +1,105 @@
+{
+	"info": {
+		"_postman_id": "81003e9f-e166-4368-a17f-f0e28fae8547",
+		"name": "ltimdreeCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "allMovies",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/movie/all",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"movie",
+						"all"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "movieForYear",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/movie/movies/released?year=2005",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"movie",
+						"movies",
+						"released"
+					],
+					"query": [
+						{
+							"key": "year",
+							"value": "2005"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "detailMovie",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/movie/movies/5/details",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"movie",
+						"movies",
+						"5",
+						"details"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "sorterMovie",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/movie/movies/orderedByFavoriteCount?typeOrder=asc",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"movie",
+						"movies",
+						"orderedByFavoriteCount"
+					],
+					"query": [
+						{
+							"key": "typeOrder",
+							"value": "asc"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
