@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "url": "https://example.com/movie1.jpg",
+    "favoriteCount": 100,
+    "releaseYear": 2005,
+    "votes": {
+      "up": 50,
+      "down": 20
+    },
+    "details": {
+      "title": "Movie 1",
+      "director": "Director 1",
+      "genre": "Action"
+    }
+  },
+  {
+    "id": "2",
+    "url": "https://example.com/movie2.jpg",
+    "favoriteCount": 150,
+    "releaseYear": 2010,
+    "votes": {
+      "up": 70,
+      "down": 10
+    },
+    "details": {
+      "title": "Movie 2",
+      "director": "Director 2",
+      "genre": "Comedy"
+    }
+  },
+  {
+    "id": "3",
+    "url": "https://example.com/movie3.jpg",
+    "favoriteCount": 80,
+    "releaseYear": 2015,
+    "votes": {
+      "up": 40,
+      "down": 5
+    },
+    "details": {
+      "title": "Movie 3",
+      "director": "Director 3",
+      "genre": "Drama"
+    }
+  },
+  {
+    "id": "4",
+    "url": "https://example.com/movie4.jpg",
+    "favoriteCount": 120,
+    "releaseYear": 2020,
+    "votes": {
+      "up": 60,
+      "down": 15
+    },
+    "details": {
+      "title": "Movie 4",
+      "director": "Director 4",
+      "genre": "Thriller"
+    }
+  },
+  {
+    "id": "5",
+    "url": "https://example.com/movie5.jpg",
+    "favoriteCount": 90,
+    "releaseYear": 2012,
+    "votes": {
+      "up": 45,
+      "down": 8
+    },
+    "details": {
+      "title": "Movie 5",
+      "director": "Director 5",
+      "genre": "Sci-Fi"
+    }
+  },
+  {
+    "id": "6",
+    "url": "https://example.com/movie6.jpg",
+    "favoriteCount": 200,
+    "releaseYear": 2018,
+    "votes": {
+      "up": 80,
+      "down": 25
+    },
+    "details": {
+      "title": "Movie 6",
+      "director": "Director 6",
+      "genre": "Horror"
+    }
+  },
+  {
+    "id": "7",
+    "url": "https://example.com/movie7.jpg",
+    "favoriteCount": 110,
+    "releaseYear": 2008,
+    "votes": {
+      "up": 55,
+      "down": 12
+    },
+    "details": {
+      "title": "Movie 7",
+      "director": "Director 7",
+      "genre": "Action"
+    }
+  },
+  {
+    "id": "8",
+    "url": "https://example.com/movie8.jpg",
+    "favoriteCount": 70,
+    "releaseYear": 2013,
+    "votes": {
+      "up": 35,
+      "down": 6
+    },
+    "details": {
+      "title": "Movie 8",
+      "director": "Director 8",
+      "genre": "Comedy"
+    }
+  },
+  {
+    "id": "9",
+    "url": "https://example.com/movie9.jpg",
+    "favoriteCount": 180,
+    "releaseYear": 2016,
+    "votes": {
+      "up": 90,
+      "down": 18
+    },
+    "details": {
+      "title": "Movie 9",
+      "director": "Director 9",
+      "genre": "Drama"
+    }
+  },
+  {
+    "id": "10",
+    "url": "https://example.com/movie10.jpg",
+    "favoriteCount": 130,
+    "releaseYear": 2019,
+    "votes": {
+      "up": 65,
+      "down": 14
+    },
+    "details": {
+      "title": "Movie 10",
+      "director": "Director 10",
+      "genre": "Thriller"
+    }
+  },
+  {
+    "id": "11",
+    "url": "https://example.com/movie11.jpg",
+    "favoriteCount": 95,
+    "releaseYear": 2009,
+    "votes": {
+      "up": 48,
+      "down": 9
+    },
+    "details": {
+      "title": "Movie 11",
+      "director": "Director 11",
+      "genre": "Sci-Fi"
+    }
+  },
+  {
+    "id": "12",
+    "url": "https://example.com/movie12.jpg",
+    "favoriteCount": 170,
+    "releaseYear": 2017,
+    "votes": {
+      "up": 85,
+      "down": 16
+    },
+    "details": {
+      "title": "Movie 12",
+      "director": "Director 12",
+      "genre": "Horror"
+    }
+  },
+  {
+    "id": "13",
+    "url": "https://example.com/movie13.jpg",
+    "favoriteCount": 105,
+    "releaseYear": 2011,
+    "votes": {
+      "up": 53,
+      "down": 11
+    },
+    "details": {
+      "title": "Movie 13",
+      "director": "Director 13",
+      "genre": "Action"
+    }
+  },
+  {
+    "id": "14",
+    "url": "https://example.com/movie14.jpg",
+    "favoriteCount": 160,
+    "releaseYear": 2014,
+    "votes": {
+      "up": 80,
+      "down": 13
+    },
+    "details": {
+      "title": "Movie 14",
+      "director": "Director 14",
+      "genre": "Comedy"
+    }
+  },
+  {
+    "id": "15",
+    "url": "https://example.com/movie15.jpg",
+    "favoriteCount": 145,
+    "releaseYear": 2015,
+    "votes": {
+      "up": 72,
+      "down": 10
+    },
+    "details": {
+      "title": "Movie 15",
+      "director": "Director 15",
+      "genre": "Drama"
+    }
+  }
+]
